@@ -295,7 +295,7 @@ body.is-black {
 
 .is-black .intro-soc__link {
     color: var(--invert-primary-color);
-    border-color: var();
+    border-color: var(--invert-primary-color);
 }
 
 .is-black .intro-soc__link:hover {
